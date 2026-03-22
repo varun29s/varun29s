@@ -62,9 +62,15 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  
+  ## GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=varun29s)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varun29s" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=varun29s&theme=onedark&row=1&column=6" />
+</p>
 </picture>
 
 ###

@@ -14,7 +14,7 @@ jobs:
 
       - uses: Platane/snk@v3
         with:
-          github_user_name: varum29s
+          github_user_name: varun29s
           outputs: |
             dist/pacman-contribution-graph.svg
 

@@ -68,7 +68,7 @@
 </picture>
 
 ###
-![snake gif](https://github.com/varun29s/varun29s/blob/output/github-contribution-grid-snake.gif)
+
 ## Pacman Contribution Graph
 
 ![Pacman Graph](https://raw.githubusercontent.com/varun29s/varun29s/output/pacman-contribution-graph.svg)

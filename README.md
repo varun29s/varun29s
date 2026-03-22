@@ -61,17 +61,7 @@
 
 ###
 
-<picture>
-  ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=varun29s)](https://github.com/ryo-ma/github-profile-trophy)
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varun29s" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=varun29s&theme=onedark&row=1&column=6" />
-</p>
-</picture>
 
 ###
 

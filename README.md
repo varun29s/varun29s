@@ -1,4 +1,4 @@
-# 💫 About Me
+# 💫 About Me.
 
 🔭 I’m currently working on **full-stack web development projects**
 👯 I’m looking to collaborate on **React, Node.js, and open-source projects**

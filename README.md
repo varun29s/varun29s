@@ -92,6 +92,5 @@ varun = {
 
 _"If there is 1% chance, sometimes that chance is good enough."_ 
 
-⭐️ if you like what you see, drop a star — it's free and makes me unreasonably happy
 
 </div>

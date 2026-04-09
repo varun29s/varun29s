@@ -1,62 +1,97 @@
-# 💫 About Me.
+<table width="100%">
+<tr>
+<td valign="center" width="60%">
 
-🔭 I’m currently working on **full-stack web development projects**
-👯 I’m looking to collaborate on **React, Node.js, and open-source projects**
-🤝 I’m looking for help with **advanced backend development and deployment**
-🌱 I’m currently learning **Data Structures & Algorithms, MERN Stack, and system design basics**
-💬 Ask me about **Java, JavaScript, React, GitHub, and basic coding interview preparation**
-⚡ Fun fact: **I enjoy building practical projects that solve real problems**
+#  I'm Varun Belagal
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Engineer+%F0%9F%9A%80;Backend+Whisperer+%F0%9F%94%A7;ML+%2F+AI+Tinkerer+%F0%9F%A4%96;Data+Analyst+Extraordinaire+%F0%9F%93%8A;Professional+Bug+Creator+%F0%9F%90%9B...+and+Fixer)](https://git.io/typing-svg)
 
-## 🌐 Socials
+<img src="https://komarev.com/ghpvc/?username=prathambalehosurr&color=F75C7E&style=flat-square&label=profile+views" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/varun.belagal)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/varun-bs)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vbs76263@gmail.com)
+</td>
+<td valign="center" align="right" width="40%">
 
----
+<img alt="Coding" width="300" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" />
 
-# 💻 Tech Stack
-
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge\&logo=c\&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge\&logo=javascript\&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge\&logo=typescript\&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-# 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=varun29s\&theme=tokyonight\&hide_border=false\&include_all_commits=true\&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=varun29s\&theme=tokyonight\&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=varun29s\&theme=tokyonight\&hide_border=false\&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=varun29s\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=4)
-
----
+</td>
+</tr>
+</table>
 
 
+##  who am i?
 
-### 🔝 Top Contributed Repo
+```python
+varun = {
+    "username":   "varun29s",
+    "roles":      ["Full-Stack Dev ", "MERN-Stack","Machine Learning"],
+    "currently":  "Working on DSA Problems",
+}
+```
 
-![](https://github-contributor-stats.vercel.app/api?username=varun29s\&limit=5\&theme=tokyonight\&combine_all_yearly_contributions=true)
 
----
+## 🛠️ my tech playground
 
-![](https://visitcount.itsvg.in/api?id=varun29s\&icon=0\&color=6)
+<div align="center">
+
+**🌐 Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**⚙️ Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+
+**🤖 ML / AI / Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</div>
+
+
+## 📊 github wrapped (but make it stats)
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=varun29s&layout=compact&theme=radical&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=varun29s&theme=radical&hide_border=true" />
+</div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/varun29s/varun29s/output/github-snake-dark.svg" alt="snake eating my commits" />
+</div>
+
+
+##  currently up to
+
+-  building something cool (always)
+-  learning things that will definitely be useful in 6 months
+-  open to collabs on ML, full-stack, or anything that sounds fun
+
+
+## 📬 find me out in the wild
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-bs/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://varun)
+
+</div>
+
+
+<div align="center">
+
+_"If there is 1% chance, sometimes that chance is good enough."_ 
+
+⭐️ if you like what you see, drop a star — it's free and makes me unreasonably happy
+
+</div>

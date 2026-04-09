@@ -11,8 +11,7 @@
 </td>
 <td valign="center" align="right" width="40%">
 
-<img alt="Coding" width="300" src="https://media1.tenor.com/m/Q2pBPCaR_tcAAAAC/piza-ninjas-pizzaninjas.gif" />
-
+<img alt="Coding" width="300" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" />
 </td>
 </tr>
 </table>

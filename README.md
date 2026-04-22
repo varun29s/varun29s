@@ -82,7 +82,7 @@ varun = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-bs/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-F75C7E?style=for-the-badge&logo=firefox&logoColor=white)](https://varun)
+[![Portfolio](https://varun-s-portfolio-7pbi.vercel.app/)](https://varun)
 
 </div>
 

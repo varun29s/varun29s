@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-## 👨‍💻 About Me
 
 <sub><i>
 
@@ -23,11 +22,6 @@
 ![](https://streak-stats.demolab.com/?user=varun29s&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=varun29s&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐍 Contribution Snake
-
-Animated snake generated from my contribution graph, powered by [generate-snake-game-from-github-contribution-grid](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid):
-
-![snake gif](https://raw.githubusercontent.com/varun29s/varun29s/output/github-snake-dark.svg)
 
 ## 📋 Contribution Table
 
@@ -37,17 +31,11 @@ Animated snake generated from my contribution graph, powered by [generate-snake-
 | 👥 Followers | ![Followers](https://img.shields.io/github/followers/varun29s?style=flat-square&label=%20) |
 | 📦 Public Repos | ![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/varun29s&label=%20&query=public_repos&style=flat-square) |
 
-![Grid Summary](https://github-profile-summary-cards.vercel.app/api/cards/grid?username=varun29s&theme=github_dark)
 
 ---
-[![](https://komarev.com/ghpvc/?username=varun29s&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-## 🐍 Contribution Snake
 
-![Snake animation](https://raw.githubusercontent.com/varun29s/varun29s/output/github-contribution-grid-snake.svg)
 
-<img src="https://github-readme-stats.vercel.app/api?username=varun29s&show_icons=true&theme=tokyonight"/>
 
 ![](https://komarev.com/ghpvc/?username=varun29s&color=blue)
 

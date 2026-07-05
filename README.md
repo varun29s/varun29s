@@ -43,4 +43,14 @@ Animated snake generated from my contribution graph, powered by [generate-snake-
 [![](https://komarev.com/ghpvc/?username=varun29s&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/varun29s/varun29s/output/github-contribution-grid-snake.svg)
+
+<img src="https://github-readme-stats.vercel.app/api?username=varun29s&show_icons=true&theme=tokyonight"/>
+
+![](https://komarev.com/ghpvc/?username=varun29s&color=blue)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varun29s&theme=github_dark)
+
 

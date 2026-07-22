@@ -22,7 +22,9 @@
 ![](https://streak-stats.demolab.com/?user=varun29s&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=varun29s&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/varun29s/varun29s/output/github-snake-dark.svg" alt="snake eating my commits" />
+</div>
 ## 📋 Contribution Table
 
 | Metric | Value |

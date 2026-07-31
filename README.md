@@ -4,9 +4,9 @@
 <sub><i>
 
 - 🔭 I'm currently working on **AI-powered Full Stack Web Applications and Machine Learning Projects**
-- 🤝 I'm looking to collaborate on **Open Source, MERN Stack, AI/ML, and Backend Development projects**
+- 🤝 I'm looking to collaborate on ** MERN Stack, AI/ML, and Backend Development projects**
 - 👐 I'm looking for help with **System Design, Cloud Deployment (AWS), and DevOps**
-- 🌱 I'm currently learning **Data Structures & Algorithms, System Design, FastAPI, Docker, and AWS**
+- 🌱 I'm currently learning **Data Structures & Algorithms, System Design, FastAPI**
 - ⚡ Fun fact: **I love turning ideas into real-world projects and solving coding challenges on LeetCode.**
 
 </i></sub>
